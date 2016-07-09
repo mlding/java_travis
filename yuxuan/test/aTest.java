@@ -1,20 +1,10 @@
-import org.junit.Before;
-import org.junit.Test;
-
-import static org.junit.Assert.*;
-
 /**
- * Created by mlding on 7/9/16.
+ * Created by yasic on 16-7-9.
  */
 public class aTest {
-
-    @Before
-    public void setUp() throws Exception {
-
-    }
-
-    @Test
-    public void testMain() throws Exception {
+    @org.junit.Test
+    public void main() throws Exception {
 
     }
+
 }
